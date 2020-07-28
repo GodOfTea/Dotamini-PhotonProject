@@ -1,0 +1,3403 @@
+fileFormatVersion: 2
+guid: a7401d517635d3d42950f816029672ae
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4956198816327116022
+    second: minimap_hero_sheet_0
+  - first:
+      213: 1276481342399324345
+    second: minimap_hero_sheet_1
+  - first:
+      213: 7636046030332419075
+    second: minimap_hero_sheet_2
+  - first:
+      213: -4375033689046598872
+    second: minimap_hero_sheet_3
+  - first:
+      213: 7048412665697686814
+    second: minimap_hero_sheet_4
+  - first:
+      213: 6036958805852997311
+    second: minimap_hero_sheet_5
+  - first:
+      213: 7360058070295574714
+    second: minimap_hero_sheet_6
+  - first:
+      213: 4323122979273275281
+    second: minimap_hero_sheet_7
+  - first:
+      213: -2614728522243351426
+    second: minimap_hero_sheet_8
+  - first:
+      213: 6297846821961443252
+    second: minimap_hero_sheet_9
+  - first:
+      213: -8913140822997730579
+    second: minimap_hero_sheet_10
+  - first:
+      213: -4856390282221768090
+    second: minimap_hero_sheet_11
+  - first:
+      213: -7800072138036509062
+    second: minimap_hero_sheet_12
+  - first:
+      213: -6924667543450271276
+    second: minimap_hero_sheet_13
+  - first:
+      213: -322368409189123663
+    second: minimap_hero_sheet_14
+  - first:
+      213: -7003411718392692576
+    second: minimap_hero_sheet_15
+  - first:
+      213: -1761986634336676857
+    second: minimap_hero_sheet_16
+  - first:
+      213: 7634523425613688001
+    second: minimap_hero_sheet_17
+  - first:
+      213: 3728730422306762353
+    second: minimap_hero_sheet_18
+  - first:
+      213: 596929998945743236
+    second: minimap_hero_sheet_19
+  - first:
+      213: 8978876804900916344
+    second: minimap_hero_sheet_20
+  - first:
+      213: -1350808302873073545
+    second: minimap_hero_sheet_21
+  - first:
+      213: 5248495197421795610
+    second: minimap_hero_sheet_22
+  - first:
+      213: -3323609992773004150
+    second: minimap_hero_sheet_23
+  - first:
+      213: -952802364674477582
+    second: minimap_hero_sheet_24
+  - first:
+      213: -3192653803792098494
+    second: minimap_hero_sheet_25
+  - first:
+      213: 6030401785757012126
+    second: minimap_hero_sheet_26
+  - first:
+      213: 1633331167016481167
+    second: minimap_hero_sheet_27
+  - first:
+      213: 8968065119587926442
+    second: minimap_hero_sheet_28
+  - first:
+      213: -2775383303257752022
+    second: minimap_hero_sheet_29
+  - first:
+      213: 1942361985753801808
+    second: minimap_hero_sheet_30
+  - first:
+      213: 5428336346754955117
+    second: minimap_hero_sheet_31
+  - first:
+      213: -4095928700806930350
+    second: minimap_hero_sheet_32
+  - first:
+      213: -14758292288775530
+    second: minimap_hero_sheet_33
+  - first:
+      213: 8415067664291461238
+    second: minimap_hero_sheet_34
+  - first:
+      213: 507142074059341425
+    second: minimap_hero_sheet_35
+  - first:
+      213: -9018584168754693859
+    second: minimap_hero_sheet_36
+  - first:
+      213: -5105221500722704991
+    second: minimap_hero_sheet_37
+  - first:
+      213: 9112049588637390118
+    second: minimap_hero_sheet_38
+  - first:
+      213: 7515935052456251965
+    second: minimap_hero_sheet_39
+  - first:
+      213: -1058662930739080803
+    second: minimap_hero_sheet_40
+  - first:
+      213: 6043216686771344190
+    second: minimap_hero_sheet_41
+  - first:
+      213: -4596521245047297870
+    second: minimap_hero_sheet_42
+  - first:
+      213: -6202388395892834758
+    second: minimap_hero_sheet_43
+  - first:
+      213: 1899641153984890481
+    second: minimap_hero_sheet_44
+  - first:
+      213: -3431140777903010358
+    second: minimap_hero_sheet_45
+  - first:
+      213: 4046413024609135728
+    second: minimap_hero_sheet_46
+  - first:
+      213: 3233129035724385147
+    second: minimap_hero_sheet_47
+  - first:
+      213: -2116095428065861130
+    second: minimap_hero_sheet_48
+  - first:
+      213: 1836676454080626504
+    second: minimap_hero_sheet_49
+  - first:
+      213: 7306335672300985397
+    second: minimap_hero_sheet_50
+  - first:
+      213: 5196265631101983032
+    second: minimap_hero_sheet_51
+  - first:
+      213: -3733718760679638406
+    second: minimap_hero_sheet_52
+  - first:
+      213: 5930044076218198020
+    second: minimap_hero_sheet_53
+  - first:
+      213: -7236145070184284402
+    second: minimap_hero_sheet_54
+  - first:
+      213: -250802729141245276
+    second: minimap_hero_sheet_55
+  - first:
+      213: 4131740334153429492
+    second: minimap_hero_sheet_56
+  - first:
+      213: 5161847515442603914
+    second: minimap_hero_sheet_57
+  - first:
+      213: 148125131763747416
+    second: minimap_hero_sheet_58
+  - first:
+      213: 7136072945345380943
+    second: minimap_hero_sheet_59
+  - first:
+      213: 5880399417646101880
+    second: minimap_hero_sheet_60
+  - first:
+      213: -3749186147564281057
+    second: minimap_hero_sheet_61
+  - first:
+      213: -3852412542644580068
+    second: minimap_hero_sheet_62
+  - first:
+      213: 6159581348365080775
+    second: minimap_hero_sheet_63
+  - first:
+      213: -494422731175505131
+    second: minimap_hero_sheet_64
+  - first:
+      213: 2973568241370017397
+    second: minimap_hero_sheet_65
+  - first:
+      213: 1650089360823687605
+    second: minimap_hero_sheet_66
+  - first:
+      213: -884182225163791594
+    second: minimap_hero_sheet_67
+  - first:
+      213: 989960651408260724
+    second: minimap_hero_sheet_68
+  - first:
+      213: -3691161330294110787
+    second: minimap_hero_sheet_69
+  - first:
+      213: -5836663613354993373
+    second: minimap_hero_sheet_70
+  - first:
+      213: 2297940943675469419
+    second: minimap_hero_sheet_71
+  - first:
+      213: -2142897499251990184
+    second: minimap_hero_sheet_72
+  - first:
+      213: 2673730243958357176
+    second: minimap_hero_sheet_73
+  - first:
+      213: -1600904591327107618
+    second: minimap_hero_sheet_74
+  - first:
+      213: -710582930273631033
+    second: minimap_hero_sheet_75
+  - first:
+      213: -1154747752706437601
+    second: minimap_hero_sheet_76
+  - first:
+      213: 5764561151599053181
+    second: minimap_hero_sheet_77
+  - first:
+      213: -1615653984496781001
+    second: minimap_hero_sheet_78
+  - first:
+      213: 7264269549714670629
+    second: minimap_hero_sheet_79
+  - first:
+      213: 5507622589203203553
+    second: minimap_hero_sheet_80
+  - first:
+      213: 4925915067840007531
+    second: minimap_hero_sheet_81
+  - first:
+      213: -2334592534853978928
+    second: minimap_hero_sheet_82
+  - first:
+      213: -7441235887609753009
+    second: minimap_hero_sheet_83
+  - first:
+      213: 7951479963686147315
+    second: minimap_hero_sheet_84
+  - first:
+      213: 8798086336793104385
+    second: minimap_hero_sheet_85
+  - first:
+      213: 4804781858313716377
+    second: minimap_hero_sheet_86
+  - first:
+      213: 4800269763442977498
+    second: minimap_hero_sheet_87
+  - first:
+      213: 5865931792616749282
+    second: minimap_hero_sheet_88
+  - first:
+      213: 2425050247930178779
+    second: minimap_hero_sheet_89
+  - first:
+      213: -7084761946717521749
+    second: minimap_hero_sheet_90
+  - first:
+      213: -474034329138404048
+    second: minimap_hero_sheet_91
+  - first:
+      213: 7589523904971992478
+    second: minimap_hero_sheet_92
+  - first:
+      213: 1480160339481941403
+    second: minimap_hero_sheet_93
+  - first:
+      213: -1065329319779291504
+    second: minimap_hero_sheet_94
+  - first:
+      213: -2355582124778892
+    second: minimap_hero_sheet_95
+  - first:
+      213: -3609522565330891646
+    second: minimap_hero_sheet_96
+  - first:
+      213: 2595021971930286304
+    second: minimap_hero_sheet_97
+  - first:
+      213: 4523012751121534577
+    second: minimap_hero_sheet_98
+  - first:
+      213: -7903100216403668483
+    second: minimap_hero_sheet_99
+  - first:
+      213: -1798016520611200392
+    second: minimap_hero_sheet_100
+  - first:
+      213: 9030119347153733750
+    second: minimap_hero_sheet_101
+  - first:
+      213: -8999664075761799314
+    second: minimap_hero_sheet_102
+  - first:
+      213: -5101484056863201575
+    second: minimap_hero_sheet_103
+  - first:
+      213: -3072475492669269823
+    second: minimap_hero_sheet_104
+  - first:
+      213: -8777132211181525228
+    second: minimap_hero_sheet_105
+  - first:
+      213: 3735978223743368038
+    second: minimap_hero_sheet_106
+  - first:
+      213: 4411382026754903261
+    second: minimap_hero_sheet_107
+  - first:
+      213: -4244116847461186788
+    second: minimap_hero_sheet_108
+  - first:
+      213: 2653771465446143262
+    second: minimap_hero_sheet_109
+  - first:
+      213: 4362781028877524422
+    second: minimap_hero_sheet_110
+  - first:
+      213: -8667886793023260531
+    second: minimap_hero_sheet_111
+  - first:
+      213: 5884604241290028196
+    second: minimap_hero_sheet_112
+  - first:
+      213: -5941018512033703500
+    second: minimap_hero_sheet_113
+  - first:
+      213: 237901887001809524
+    second: minimap_hero_sheet_114
+  - first:
+      213: 7781662997748069560
+    second: minimap_hero_sheet_115
+  - first:
+      213: 3620518856552799951
+    second: minimap_hero_sheet_116
+  - first:
+      213: 1743907479425237871
+    second: minimap_hero_sheet_117
+  - first:
+      213: -5159928887669921900
+    second: minimap_hero_sheet_0
+  - first:
+      213: -502667238298709375
+    second: minimap_hero_sheet_1
+  - first:
+      213: 7550823389205011196
+    second: minimap_hero_sheet_2
+  - first:
+      213: 598267718573183243
+    second: minimap_hero_sheet_3
+  - first:
+      213: 8258884576857790290
+    second: minimap_hero_sheet_4
+  - first:
+      213: -6056941904490694603
+    second: minimap_hero_sheet_5
+  - first:
+      213: 7435889021997052717
+    second: minimap_hero_sheet_6
+  - first:
+      213: 7856451440907177162
+    second: minimap_hero_sheet_7
+  - first:
+      213: -6418006191836571918
+    second: minimap_hero_sheet_8
+  - first:
+      213: -7630621504328993221
+    second: minimap_hero_sheet_9
+  - first:
+      213: 3887705763530598699
+    second: minimap_hero_sheet_10
+  - first:
+      213: -983393829009198262
+    second: minimap_hero_sheet_11
+  - first:
+      213: -4005749331582253831
+    second: minimap_hero_sheet_12
+  - first:
+      213: -9011774208688310367
+    second: minimap_hero_sheet_13
+  - first:
+      213: -5883512683661488535
+    second: minimap_hero_sheet_14
+  - first:
+      213: 6206764614842406773
+    second: minimap_hero_sheet_15
+  - first:
+      213: 7446914686579068551
+    second: minimap_hero_sheet_16
+  - first:
+      213: 4239412492125786205
+    second: minimap_hero_sheet_17
+  - first:
+      213: 923870512382015476
+    second: minimap_hero_sheet_18
+  - first:
+      213: -3413772226943923259
+    second: minimap_hero_sheet_19
+  - first:
+      213: -2295180030849376778
+    second: minimap_hero_sheet_20
+  - first:
+      213: -8738062462758290100
+    second: minimap_hero_sheet_21
+  - first:
+      213: 8311547223993193288
+    second: minimap_hero_sheet_22
+  - first:
+      213: -1053905294803958941
+    second: minimap_hero_sheet_23
+  - first:
+      213: 1143133187586092260
+    second: minimap_hero_sheet_24
+  - first:
+      213: 6335598472372736827
+    second: minimap_hero_sheet_25
+  - first:
+      213: -2685991604904241060
+    second: minimap_hero_sheet_26
+  - first:
+      213: -822951395968545787
+    second: minimap_hero_sheet_27
+  - first:
+      213: -4116084916786620536
+    second: minimap_hero_sheet_28
+  - first:
+      213: -8394417921785618857
+    second: minimap_hero_sheet_29
+  - first:
+      213: -4559659559991774670
+    second: minimap_hero_sheet_30
+  - first:
+      213: -6022802415417604854
+    second: minimap_hero_sheet_31
+  - first:
+      213: 21083926290888861
+    second: minimap_hero_sheet_32
+  - first:
+      213: -6056345953185452540
+    second: minimap_hero_sheet_33
+  - first:
+      213: -3752032691546298652
+    second: minimap_hero_sheet_34
+  - first:
+      213: 3654005372030799117
+    second: minimap_hero_sheet_35
+  - first:
+      213: -8545793319902728481
+    second: minimap_hero_sheet_36
+  - first:
+      213: -3243481231624887195
+    second: minimap_hero_sheet_37
+  - first:
+      213: 9022503542023867735
+    second: minimap_hero_sheet_38
+  - first:
+      213: 4405370294296715929
+    second: minimap_hero_sheet_39
+  - first:
+      213: -6977285845919320975
+    second: minimap_hero_sheet_40
+  - first:
+      213: 8252264138771876742
+    second: minimap_hero_sheet_41
+  - first:
+      213: -7076552839649312758
+    second: minimap_hero_sheet_42
+  - first:
+      213: -576073996159441547
+    second: minimap_hero_sheet_43
+  - first:
+      213: -8870519892296602385
+    second: minimap_hero_sheet_44
+  - first:
+      213: -6384729496157095299
+    second: minimap_hero_sheet_45
+  - first:
+      213: -4084859471264642456
+    second: minimap_hero_sheet_46
+  - first:
+      213: 4125544386124882336
+    second: minimap_hero_sheet_47
+  - first:
+      213: 2209013555769713669
+    second: minimap_hero_sheet_48
+  - first:
+      213: -2258855360799518511
+    second: minimap_hero_sheet_49
+  - first:
+      213: 5976955516300885819
+    second: minimap_hero_sheet_50
+  - first:
+      213: -494532442571018098
+    second: minimap_hero_sheet_51
+  - first:
+      213: 2483796396194264780
+    second: minimap_hero_sheet_52
+  - first:
+      213: -6915308763700090312
+    second: minimap_hero_sheet_53
+  - first:
+      213: -1293577647845319302
+    second: minimap_hero_sheet_54
+  - first:
+      213: 7744821614482617659
+    second: minimap_hero_sheet_55
+  - first:
+      213: 892582058480319824
+    second: minimap_hero_sheet_56
+  - first:
+      213: -8289771339668974235
+    second: minimap_hero_sheet_57
+  - first:
+      213: 9067215223683734358
+    second: minimap_hero_sheet_58
+  - first:
+      213: 70262024106543517
+    second: minimap_hero_sheet_59
+  - first:
+      213: 5493669438767279899
+    second: minimap_hero_sheet_60
+  - first:
+      213: -8632553537075202869
+    second: minimap_hero_sheet_61
+  - first:
+      213: 7933860570881892407
+    second: minimap_hero_sheet_62
+  - first:
+      213: -4859652790528045037
+    second: minimap_hero_sheet_63
+  - first:
+      213: 4996072244801259535
+    second: minimap_hero_sheet_64
+  - first:
+      213: 8968147781171032922
+    second: minimap_hero_sheet_65
+  - first:
+      213: 3064459233463497151
+    second: minimap_hero_sheet_66
+  - first:
+      213: 3337878429897054472
+    second: minimap_hero_sheet_67
+  - first:
+      213: 3676274523243693182
+    second: minimap_hero_sheet_68
+  - first:
+      213: 7100144667768312737
+    second: minimap_hero_sheet_69
+  - first:
+      213: 6992301667551698657
+    second: minimap_hero_sheet_70
+  - first:
+      213: -1767906053097541123
+    second: minimap_hero_sheet_71
+  - first:
+      213: -7788537804433409215
+    second: minimap_hero_sheet_72
+  - first:
+      213: 8445230990821309927
+    second: minimap_hero_sheet_73
+  - first:
+      213: 7314953822002989999
+    second: minimap_hero_sheet_74
+  - first:
+      213: -6563068489918697662
+    second: minimap_hero_sheet_75
+  - first:
+      213: -780680074616308258
+    second: minimap_hero_sheet_76
+  - first:
+      213: 2325453407701318662
+    second: minimap_hero_sheet_77
+  - first:
+      213: 6723007612503644400
+    second: minimap_hero_sheet_78
+  - first:
+      213: -5262216319406930097
+    second: minimap_hero_sheet_79
+  - first:
+      213: -257119482725242006
+    second: minimap_hero_sheet_80
+  - first:
+      213: -990202647396721062
+    second: minimap_hero_sheet_81
+  - first:
+      213: 8843436727403203796
+    second: minimap_hero_sheet_82
+  - first:
+      213: -6615464369457042210
+    second: minimap_hero_sheet_83
+  - first:
+      213: -2623899941981301065
+    second: minimap_hero_sheet_84
+  - first:
+      213: -4925255688774980493
+    second: minimap_hero_sheet_85
+  - first:
+      213: -8743914919390942302
+    second: minimap_hero_sheet_86
+  - first:
+      213: 3521930643286923793
+    second: minimap_hero_sheet_87
+  - first:
+      213: 6376086978901483762
+    second: minimap_hero_sheet_88
+  - first:
+      213: 556136433210539424
+    second: minimap_hero_sheet_89
+  - first:
+      213: -1962711417713153516
+    second: minimap_hero_sheet_90
+  - first:
+      213: 8625109092654684735
+    second: minimap_hero_sheet_91
+  - first:
+      213: 7370336540664839827
+    second: minimap_hero_sheet_92
+  - first:
+      213: -2503048461471698593
+    second: minimap_hero_sheet_93
+  - first:
+      213: 4131235205987265716
+    second: minimap_hero_sheet_94
+  - first:
+      213: 233451646633247891
+    second: minimap_hero_sheet_95
+  - first:
+      213: 5663422056095399511
+    second: minimap_hero_sheet_96
+  - first:
+      213: 3078656033125845437
+    second: minimap_hero_sheet_97
+  - first:
+      213: -5971310637427757083
+    second: minimap_hero_sheet_98
+  - first:
+      213: -8912214569354949583
+    second: minimap_hero_sheet_99
+  - first:
+      213: 5043925593768361333
+    second: minimap_hero_sheet_100
+  - first:
+      213: -8391255381349701368
+    second: minimap_hero_sheet_101
+  - first:
+      213: -4896820617838397718
+    second: minimap_hero_sheet_102
+  - first:
+      213: 8005762707880768962
+    second: minimap_hero_sheet_103
+  - first:
+      213: 3171853917761381639
+    second: minimap_hero_sheet_104
+  - first:
+      213: 3451635084537498135
+    second: minimap_hero_sheet_105
+  - first:
+      213: 4969089394031977688
+    second: minimap_hero_sheet_106
+  - first:
+      213: -6467507268625815360
+    second: minimap_hero_sheet_107
+  - first:
+      213: -3883776071074738607
+    second: minimap_hero_sheet_108
+  - first:
+      213: -9168474745045713721
+    second: minimap_hero_sheet_109
+  - first:
+      213: -5839925853813094211
+    second: minimap_hero_sheet_110
+  - first:
+      213: 2025386485425476593
+    second: minimap_hero_sheet_111
+  - first:
+      213: 8454251378272157445
+    second: minimap_hero_sheet_112
+  - first:
+      213: 1245713532022438554
+    second: minimap_hero_sheet_113
+  - first:
+      213: 4923323831458286011
+    second: minimap_hero_sheet_114
+  - first:
+      213: -3345377544938779211
+    second: minimap_hero_sheet_115
+  - first:
+      213: 3061807858878727647
+    second: minimap_hero_sheet_116
+  - first:
+      213: -2216540730323726045
+    second: minimap_hero_sheet_117
+  - first:
+      213: 2523032659398423583
+    second: minimap_hero_sheet_118
+  - first:
+      213: 6500403894019141348
+    second: minimap_hero_sheet_119
+  - first:
+      213: 7592071775920283523
+    second: minimap_hero_sheet_120
+  - first:
+      213: -1794752205204755475
+    second: minimap_hero_sheet_121
+  - first:
+      213: -5157884105300654424
+    second: minimap_hero_sheet_122
+  - first:
+      213: -7095823041448641044
+    second: minimap_hero_sheet_123
+  - first:
+      213: 3830556592820542010
+    second: minimap_hero_sheet_124
+  - first:
+      213: 4302636213037572746
+    second: minimap_hero_sheet_125
+  - first:
+      213: 2535534704790054304
+    second: minimap_hero_sheet_126
+  - first:
+      213: 2074331391130585029
+    second: minimap_hero_sheet_127
+  - first:
+      213: 2381902930037930783
+    second: minimap_hero_sheet_128
+  - first:
+      213: -6222619401223701731
+    second: minimap_hero_sheet_129
+  - first:
+      213: 4904330779771288310
+    second: minimap_hero_sheet_130
+  - first:
+      213: -4112555177538711163
+    second: minimap_hero_sheet_131
+  - first:
+      213: -3593854050422941426
+    second: heroes_0
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: minimap_hero_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 482
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4976820e3004468b0800000000000000
+      internalID: -5159928887669921900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 481
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1829afc5fca2609f0800000000000000
+      internalID: -502667238298709375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 481
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa9643ddd9e9c860800000000000000
+      internalID: 7550823389205011196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 481
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b01532ef1597d4800800000000000000
+      internalID: 598267718573183243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 481
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2579f84e3c37d9270800000000000000
+      internalID: 8258884576857790290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 480
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53877adcd6b61fba0800000000000000
+      internalID: -6056941904490694603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 480
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d237c512ba5913760800000000000000
+      internalID: 7435889021997052717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 480
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: accc062d5f8b70d60800000000000000
+      internalID: 7856451440907177162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 481
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f6d2516f59aee6a0800000000000000
+      internalID: -6418006191836571918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 481
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36730bab269a1690800000000000000
+      internalID: -7630621504328993221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 480
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b29ea724bc7e3f530800000000000000
+      internalID: 3887705763530598699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a437893d5884a52f0800000000000000
+      internalID: -983393829009198262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 480
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f408cfc438b868c0800000000000000
+      internalID: -4005749331582253831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 480
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a73b178a1fbfe280800000000000000
+      internalID: -9011774208688310367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 480
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e0adae260995ea0800000000000000
+      internalID: -5883512683661488535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 480
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5775528488bd22650800000000000000
+      internalID: 6206764614842406773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 450
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e4f26b371c85760800000000000000
+      internalID: 7446914686579068551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 449
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50d281433b65da30800000000000000
+      internalID: 4239412492125786205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 449
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7fcfc065f32dc00800000000000000
+      internalID: 923870512382015476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 450
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cbc9ec1f38df90d0800000000000000
+      internalID: -3413772226943923259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 450
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd17ad1ce1e520e0800000000000000
+      internalID: -2295180030849376778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 449
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4dfd128c7a2cb680800000000000000
+      internalID: -8738062462758290100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 449
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8439ffbe92c885370800000000000000
+      internalID: 8311547223993193288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 449
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3638e4cd7b6cf51f0800000000000000
+      internalID: -1053905294803958941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 449
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec6709d3993ddf00800000000000000
+      internalID: 1143133187586092260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 449
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b33d8414e319ce750800000000000000
+      internalID: 6335598472372736827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 449
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c585008cdd079bad0800000000000000
+      internalID: -2685991604904241060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 449
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c02e7c01a4494f0800000000000000
+      internalID: -822951395968545787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 449
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 887179d739ab0e6c0800000000000000
+      internalID: -4116084916786620536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 449
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e9bcb2069018b80800000000000000
+      internalID: -8394417921785618857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 449
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 232f9fdc9c5d8b0c0800000000000000
+      internalID: -4559659559991774670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 449
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a054ba40d15ba6ca0800000000000000
+      internalID: -6022802415417604854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 417
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d98f90128b7ea4000800000000000000
+      internalID: 21083926290888861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ea187817983fba0800000000000000
+      internalID: -6056345953185452540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 417
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e6eaba652a1eebc0800000000000000
+      internalID: -3752032691546298652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 417
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0dc34fa682a5b230800000000000000
+      internalID: 3654005372030799117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 417
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdeaa4bc04e376980800000000000000
+      internalID: -8545793319902728481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 417
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5642a592107dcf2d0800000000000000
+      internalID: -3243481231624887195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 418
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d490f0b2f563d70800000000000000
+      internalID: 9022503542023867735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 417
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9922d9721f4032d30800000000000000
+      internalID: 4405370294296715929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 417
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1743e998d73bb2f90800000000000000
+      internalID: -6977285845919320975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 417
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b4138038ee58270800000000000000
+      internalID: 8252264138771876742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_42
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 417
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a00cb6e7fa80bcd90800000000000000
+      internalID: -7076552839649312758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_43
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 417
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575a39ea0cf5108f0800000000000000
+      internalID: -576073996159441547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_44
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 417
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fecef9ee72595e480800000000000000
+      internalID: -8870519892296602385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_45
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 417
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7af89ad952e467a0800000000000000
+      internalID: -6384729496157095299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_46
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 480
+        width: 30
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a81e114f9af47c0800000000000000
+      internalID: -4084859471264642456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_47
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 385
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1a418d2c0e04930800000000000000
+      internalID: 4125544386124882336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_48
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 385
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5042da7002ef7ae10800000000000000
+      internalID: 2209013555769713669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_49
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d0de8c640fe6a0e0800000000000000
+      internalID: -2258855360799518511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_50
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 385
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ffc63ff5962f250800000000000000
+      internalID: 5976955516300885819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_51
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 387
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80f5a61d511329f0800000000000000
+      internalID: -494532442571018098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_52
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 385
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc6fd81a9a7387220800000000000000
+      internalID: 2483796396194264780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_53
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 386
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83aa28b7153e700a0800000000000000
+      internalID: -6915308763700090312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_54
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 385
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d5bc2abf94c0ee0800000000000000
+      internalID: -1293577647845319302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_55
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 386
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b35f00c79322b7b60800000000000000
+      internalID: 7744821614482617659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_56
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 385
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d3b9037a6136c00800000000000000
+      internalID: 892582058480319824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_57
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 385
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56511dd33e0d4fc80800000000000000
+      internalID: -8289771339668974235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_58
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 384
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65bdeada43835dd70800000000000000
+      internalID: 9067215223683734358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_59
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 385
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99021c40fe99f000800000000000000
+      internalID: 70262024106543517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_60
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 386
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1fa4237f3f6d3c40800000000000000
+      internalID: 5493669438767279899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_61
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 385
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc437169b42033880800000000000000
+      internalID: -8632553537075202869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_62
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 385
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 730a4e0672cba1e60800000000000000
+      internalID: 7933860570881892407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_63
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 353
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31017d8d88b0f8cb0800000000000000
+      internalID: -4859652790528045037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_64
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 353
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08419f7c3d955540800000000000000
+      internalID: 4996072244801259535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_65
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 353
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5338e544e2457c70800000000000000
+      internalID: 8968147781171032922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_66
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 353
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb1f147cf65278a20800000000000000
+      internalID: 3064459233463497151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_67
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 354
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809d3754fb6825e20800000000000000
+      internalID: 3337878429897054472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_68
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 353
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7442ce7330c40330800000000000000
+      internalID: 3676274523243693182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_69
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 353
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3d63805f7c88260800000000000000
+      internalID: 7100144667768312737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_70
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 353
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee5ac0e155a90160800000000000000
+      internalID: 6992301667551698657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_71
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 353
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1bbdcbfc22777e0800000000000000
+      internalID: -1767906053097541123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_73
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 353
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed360667dc733570800000000000000
+      internalID: 8445230990821309927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_74
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 353
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fabcfdcaebfe38560800000000000000
+      internalID: 7314953822002989999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_75
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 353
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f26d52bfb4be4a0800000000000000
+      internalID: -6563068489918697662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_76
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 321
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eddf44dbb977a25f0800000000000000
+      internalID: -780680074616308258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_77
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 321
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c32c3bd8ba54020800000000000000
+      internalID: 2325453407701318662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_78
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 324
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f8d685bdcbec4d50800000000000000
+      internalID: 6723007612503644400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_79
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 322
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f478c7e432ad8f6b0800000000000000
+      internalID: -5262216319406930097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_80
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 321
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b645751378e6cf0800000000000000
+      internalID: -257119482725242006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_81
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 321
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e544240f71242f0800000000000000
+      internalID: -990202647396721062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_82
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 321
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dcc28a59d23aba70800000000000000
+      internalID: 8843436727403203796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_83
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 321
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc624ac4362134a0800000000000000
+      internalID: -6615464369457042210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_84
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 321
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b65900a7e8069bd0800000000000000
+      internalID: -2623899941981301065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_85
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 321
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c6892db0af5abb0800000000000000
+      internalID: -4925255688774980493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_86
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 289
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2abe67345bf57a680800000000000000
+      internalID: -8743914919390942302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_87
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 289
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a1ea4924960e030800000000000000
+      internalID: 3521930643286923793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_88
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 289
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0aa6a43596c7850800000000000000
+      internalID: 6376086978901483762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_89
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 289
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0adba24b32bc7b700800000000000000
+      internalID: 556136433210539424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_90
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41aaa9e4d5c03c4e0800000000000000
+      internalID: -1962711417713153516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_91
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a9ca0a50b82b770800000000000000
+      internalID: 8625109092654684735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_92
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 288
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39eb865b802b84660800000000000000
+      internalID: 7370336540664839827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_93
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 291
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f51346e9fa2634dd0800000000000000
+      internalID: -2503048461471698593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_94
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 289
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc65781888155930800000000000000
+      internalID: 4131235205987265716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_95
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 290
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3940ec529036d3300800000000000000
+      internalID: 233451646633247891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_96
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ebdaa9a54889e40800000000000000
+      internalID: 5663422056095399511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_97
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 288
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db94418c95599ba20800000000000000
+      internalID: 3078656033125845437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_98
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 288
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef6b94dc94a12da0800000000000000
+      internalID: -5971310637427757083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_99
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 288
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c898f6114715480800000000000000
+      internalID: -8912214569354949583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_100
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 288
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d701a8a9f9ff540800000000000000
+      internalID: 5043925593768361333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_101
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 287
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809e01f70b54c8b80800000000000000
+      internalID: -8391255381349701368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae6fee0b79ffa0cb0800000000000000
+      internalID: -4896820617838397718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_103
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 256
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c57d4734ce2a1f60800000000000000
+      internalID: 8005762707880768962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_104
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 259
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705299f3550b40c20800000000000000
+      internalID: 3171853917761381639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_105
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a022462dba6ef20800000000000000
+      internalID: 3451635084537498135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_108
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 225
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e8d609d3e0a1ac0800000000000000
+      internalID: -3883776071074738607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_116
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 223
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd547f6860abd7a20800000000000000
+      internalID: 3061807858878727647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_118
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 417
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 2, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14f62c06dc930320800000000000000
+      internalID: 2523032659398423583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_119
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 353
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eea397a6e2163a50800000000000000
+      internalID: 6500403894019141348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_120
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 323
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f5ff04e057c5960800000000000000
+      internalID: 7592071775920283523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_121
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 322
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: debebecd062c717e0800000000000000
+      internalID: -1794752205204755475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_122
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 321
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a6cbeedbb38b68b0800000000000000
+      internalID: -5157884105300654424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_123
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 321
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cedfb610a82968d90800000000000000
+      internalID: -7095823041448641044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_124
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 321
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a591f0deed82530800000000000000
+      internalID: 3830556592820542010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_125
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 321
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8226d3e6d806bb30800000000000000
+      internalID: 4302636213037572746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_126
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a5afa25167003320800000000000000
+      internalID: 2535534704790054304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_127
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 224
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7c7c2f86189cc10800000000000000
+      internalID: 2074331391130585029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_130
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 225
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa38452cdeaf0440800000000000000
+      internalID: 4904330779771288310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minimap_hero_sheet_131
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 224
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5819c93fad44de6c0800000000000000
+      internalID: -4112555177538711163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heroes_0
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 417
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0911fd38c0102ec0800000000000000
+      internalID: -3593854050422941426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
