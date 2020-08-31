@@ -31,7 +31,7 @@ public static class Save
     public static void SaveDailyBounceData(DailyBonus dailyBonus)
     {
         BinaryFormatter formatter = new BinaryFormatter();
-        string path = Application.persistentDataPath + "/timeData.gft";
+        string path = Application.persistentDataPath + "/dailyBounce.gft";
 
         FileStream stream = new FileStream(path, FileMode.Create);
         DailyBounceData data = new DailyBounceData(dailyBonus);

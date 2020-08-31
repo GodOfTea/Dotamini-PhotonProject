@@ -11,6 +11,7 @@ ScriptsOnlyBuild:
     - UIRoot
     - UIWidget
     Assembly-CSharp.dll:
+    - BonusBars
     - ContractController
     - DailyBonus
     - EndGame
@@ -128,21 +129,21 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 13682}
     - Class: 114
-      Script: {instanceID: 13996}
+      Script: {instanceID: 13994}
     - Class: 114
-      Script: {instanceID: 14142}
+      Script: {instanceID: 14000}
     - Class: 114
-      Script: {instanceID: 14210}
+      Script: {instanceID: 14146}
     - Class: 114
-      Script: {instanceID: 14220}
+      Script: {instanceID: 14214}
     - Class: 114
-      Script: {instanceID: 14374}
+      Script: {instanceID: 14224}
     - Class: 114
-      Script: {instanceID: 15068}
+      Script: {instanceID: 14378}
     - Class: 114
-      Script: {instanceID: 15070}
+      Script: {instanceID: 15074}
     - Class: 114
-      Script: {instanceID: 18988}
+      Script: {instanceID: 15076}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -241,25 +242,27 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 13786}
     - Class: 114
-      Script: {instanceID: 13800}
+      Script: {instanceID: 13792}
     - Class: 114
-      Script: {instanceID: 13996}
+      Script: {instanceID: 13802}
     - Class: 114
-      Script: {instanceID: 14122}
+      Script: {instanceID: 13994}
     - Class: 114
-      Script: {instanceID: 14174}
+      Script: {instanceID: 14000}
     - Class: 114
-      Script: {instanceID: 14208}
+      Script: {instanceID: 14126}
     - Class: 114
-      Script: {instanceID: 14222}
+      Script: {instanceID: 14178}
     - Class: 114
-      Script: {instanceID: 15068}
+      Script: {instanceID: 14212}
     - Class: 114
-      Script: {instanceID: 15070}
+      Script: {instanceID: 14226}
     - Class: 114
-      Script: {instanceID: 15272}
+      Script: {instanceID: 15074}
     - Class: 114
-      Script: {instanceID: 18988}
+      Script: {instanceID: 15076}
+    - Class: 114
+      Script: {instanceID: 15278}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -1595,6 +1598,12 @@ ScriptsOnlyBuild:
     className: PointedAtGameObjectInfo
   - hash:
       serializedVersion: 2
+      Hash: b14401225424e1563789431d16b61de0
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: DailyBonus
+  - hash:
+      serializedVersion: 2
       Hash: 37b66d97ccef5607e80037acafe51b3b
     assemblyName: PhotonUnityNetworking.Demos.dll
     namespaceName: Photon.Pun.Demo.SlotRacer.Utils
@@ -1707,6 +1716,12 @@ ScriptsOnlyBuild:
     assemblyName: PhotonUnityNetworking.Demos.dll
     namespaceName: Photon.Pun.Demo.Cockpit
     className: AppVersionProperty
+  - hash:
+      serializedVersion: 2
+      Hash: 33125a9c02d270536bd29592b5049175
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: BonusBars
   - hash:
       serializedVersion: 2
       Hash: 949ac43ee7c6a4035ec1c2f8b68d6f1b
@@ -2475,12 +2490,6 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: PlayableTrack
-  - hash:
-      serializedVersion: 2
-      Hash: cd5fbf6ad3f50a19d7cf72e2d72f5dc6
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: DailyBonus
   platform: 19
   scenePathNames:
   - Assets/Scenes/Lobby.unity

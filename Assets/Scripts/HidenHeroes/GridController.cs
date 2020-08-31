@@ -19,8 +19,6 @@ public class GridController : MonoBehaviour
     /* Отступ */
     [SerializeField] private float step = 0.25f;
 
-    /* Для синхронизации */
-    private double lastTickTime;
 
     public void FillGrid(int[] gamePool)
     {

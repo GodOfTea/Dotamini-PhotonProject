@@ -8,6 +8,6 @@ public class DailyBounceData
 
     public DailyBounceData(DailyBonus dailyBonus)
     {
-        dailyBounceCount = dailyBonus.dailyBonusCount;
+        dailyBounceCount = dailyBonus.GetDailyBounceCount();
     }
 }

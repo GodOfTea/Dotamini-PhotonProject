@@ -75,16 +75,16 @@ public class TimeManager : MonoBehaviour
                 var previousEnterTime = lastEnter;
 
                 /* Проверка значений */
-                Debug.Log("nowEnterTime - " + nowEnterTime);
-                Debug.Log("previousEnterTime - " + previousEnterTime);
+                //Debug.Log("nowEnterTime - " + nowEnterTime);
+                //Debug.Log("previousEnterTime - " + previousEnterTime);
 
                 /* Не актуально */
                 //previousEnterTime = previousEnterTime.AddHours(-error); /* -error т.к. если local>London, то нужно вычесть, чтоб local=London и наоборот */
 
                 TimeSpan timeSpan = nowEnterTime - previousEnterTime;
 
-                Debug.LogFormat("С прошлого входа прошло {0} часов {1} минут {2} секунд",
-                    timeSpan.Hours, timeSpan.Minutes, timeSpan.Seconds);
+                //Debug.LogFormat("С прошлого входа прошло {0} часов {1} минут {2} секунд",
+                //    timeSpan.Hours, timeSpan.Minutes, timeSpan.Seconds);
 
                 if (nowEnterTime.Day != previousEnterTime.Day)
                     newDay.Invoke();

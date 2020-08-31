@@ -80,11 +80,12 @@
     <Compile Include="Assets\Scripts\DailyBonus\TimeManager.cs" />
     <Compile Include="Assets\Scripts\Generals\LevelBar.cs" />
     <Compile Include="Assets\Scripts\Generals\LevelSystem.cs" />
+    <Compile Include="Assets\Scripts\HeroIcon\Avatar.cs" />
+    <Compile Include="Assets\Scripts\HeroIcon\HeroIcon.cs" />
     <Compile Include="Assets\Scripts\HidenHeroes\ContractController.cs" />
     <Compile Include="Assets\Scripts\HidenHeroes\EndGame.cs" />
     <Compile Include="Assets\Scripts\HidenHeroes\GridController.cs" />
     <Compile Include="Assets\Scripts\HidenHeroes\HHGameManager.cs" />
-    <Compile Include="Assets\Scripts\HidenHeroes\HeroIcon.cs" />
     <Compile Include="Assets\Scripts\HidenHeroes\HeroesPool.cs" />
     <Compile Include="Assets\Scripts\HidenHeroes\HidenHeroesCore.cs" />
     <Compile Include="Assets\Scripts\HidenHeroes\Panels\EndGamePanel.cs" />
